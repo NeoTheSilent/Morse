@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\ray\downloads\college\c++\cs201 stuff\project 2\project 2\main.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\ray\downloads\college\c++\cs201 stuff\project 2\project 2\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\ray\downloads\college\c++\cs201 stuff\project 2\project 2\main.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\ray\downloads\college\c++\cs201 stuff\project 2\project 2\main.cpp(95): warning C4102: 'retry': unreferenced label
+c:\users\ray\downloads\college\c++\cs201 stuff\project 2\project 2\struct.h(64): warning C4715: 'letter_to_morse': not all control paths return a value
+c:\users\ray\downloads\college\c++\cs201 stuff\project 2\project 2\struct.h(83): warning C4715: 'morse_to_letter': not all control paths return a value
+  Project 2.vcxproj -> C:\Users\Ray\Downloads\College\C++\CS201 Stuff\Project 2\Debug\Project 2.exe
